@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="iOS/XamTest.iOS.csproj" StartupConfiguration="{03D320B4-A61C-48F0-8ECC-5B9FC1E9A905}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwoNetFrameworkBindingLibrary/ApiDefinition.cs">
+    <Files>
+      <File FileName="XamTest/TrioTools.cs" Line="46" Column="14" />
+      <File FileName="TwoNetFrameworkBindingLibrary/ApiDefinition.cs" Line="20" Column="4" />
+      <File FileName="TwoNetFrameworkBindingLibrary/Structs.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.73C6ADED-460E-47F1-B342-887D0FF3E76C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Development/XamarinApps/XamTest/Motion.Mobile.Core.BLE.Droid/Core/BLE/GattCallback.cs" line="72" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamTest.Droid PreferredExecutionTarget="Android.Nexus 7 (Lollipop)" />
+</Properties>

@@ -1,0 +1,2 @@
+/FILES/XamTest/QualcommBinder/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/FILES/XamTest/QualcommBinder/obj/Debug/QualcommBinder.Jars.2net-mobile-core-release.jar

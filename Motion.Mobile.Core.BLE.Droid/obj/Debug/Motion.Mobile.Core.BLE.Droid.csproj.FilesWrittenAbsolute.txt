@@ -1,0 +1,15 @@
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/Motion.Mobile.Core.BLE.Android.obj.Debug.__AndroidLibraryProjects__.zip
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.Core.BLE.Android.dll.mdb
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.Core.BLE.Android.dll
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.Core.BLE.Android.apk
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/android/bin/Motion.Mobile.Core.BLE.Android.apk
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/res/values/strings.xml
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/R.cs.flag
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.Core.BLE.Android-Signed.apk
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/uploadflags.txt
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/Motion.Mobile.Core.BLE.Android.dll
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/obj/Debug/Motion.Mobile.Core.BLE.Android.dll.mdb
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.CoreBLE.dll
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Motion.Mobile.CoreBLE.dll.mdb
+/FILES/XamTest/Motion.Mobile.Core.BLE.Droid/bin/Debug/Newtonsoft.Json.dll
